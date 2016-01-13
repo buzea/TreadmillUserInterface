@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Treadmill</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_login_pop_up">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="guest_sign_in">Continue as Guest</string>
+    <string name="email">email</string>
+    <string name="user">user</string>
+    <string name="edit_profile_data">Edit Profile Data</string>
+    <string name="quick_start">Quick Start</string>
+    <string name="set_goal">Set Workout Goal</string>
+    <string name="cutom_workout">Choose Custom Workout</string>
+    <string name="view_previuous_details">View Previous Workout Details</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_workout_goal">WorkoutGoalActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="value">Value</string>
+    <string name="units">Units</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="share">Share workout</string>
+    <string name="add">Add Workout</string>
+    <string name="select_workout">Select</string>
+    <string name="workout_name">Workout name</string>
+    <string name="workout">Workout</string>
+    <string name="title_activity_compare_workouts">Workouts</string>
+</resources>
